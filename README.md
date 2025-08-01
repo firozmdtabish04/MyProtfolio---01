@@ -1,6 +1,5 @@
 # MyProtfolio---01
-Link to go..
-https://firozmdtabish04.github.io/MyProtfolio---01/
+Link to go.. https://firozmdtabish04.github.io/MyProtfolio---01/
 
 Welcome to my personal portfolio! I'm Tabish Firoz, a passionate and aspiring Full Stack Java Developer with strong command in Spring Boot, Angular, and Java, along with a creative eye for frontend development. 
 
